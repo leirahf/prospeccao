@@ -15,8 +15,8 @@ DB_USER = os.getenv("DB_USER")
 DB_PASSWORD = os.getenv("DB_PASSWORD")
 
 # ===== CONFIGURAÇÕES DO EMAIL =====
-FROM_EMAIL = "josuegomes@zohomail.com"
-SENHA = "s5vfg1VmuKxs"
+FROM_EMAIL = "xxx"
+SENHA = "xxx"
 SMTP_SERVER = "smtp.zoho.com"
 SMTP_PORT = 587  # porta TLS
 
